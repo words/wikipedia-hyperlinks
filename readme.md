@@ -1,6 +1,6 @@
 # wikipedia-hyperlinks 
 
-Give me a term and I&#39;ll give you a list of links found in its Wikipedia article
+Give me a term and I'll give you a list of links found in its Wikipedia article
 
 ## Installation
 
