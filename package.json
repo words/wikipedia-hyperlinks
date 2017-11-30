@@ -1,7 +1,7 @@
 {
   "name": "wikipedia-hyperlinks",
   "description": "Give me a term and I'll give you a list of links found in its Wikipedia article",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
