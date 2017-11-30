@@ -15,7 +15,7 @@ npm i wikipedia-hyperlinks --save
 Or install as a command-line tool:
 
 ```sh
-npm i -D wikipedia-hyperlinks
+npm i -g wikipedia-hyperlinks
 ```
 
 ## Module Usage
