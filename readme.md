@@ -6,8 +6,16 @@ Give me a term and I&#39;ll give you a list of links found in its Wikipedia arti
 
 This module requires Node.js 8 or higher, because it uses async functions.
 
+Install as a module for programmatic use in your JavaScript code:
+
 ```sh
-npm install wikipedia-hyperlinks --save
+npm i wikipedia-hyperlinks --save
+```
+
+Or install as a command-line tool:
+
+```sh
+npm i -D wikipedia-hyperlinks
 ```
 
 ## Module Usage
